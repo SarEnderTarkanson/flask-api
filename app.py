@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 stores = [
     {
-        "name": "My Store",
+        "name": "MyStore",
         "items": [
             {
                 "name": "Chair",
